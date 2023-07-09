@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caché de IDEs y editores
+.idea/
+.vscode/
+*.pydevproject
+*.pyc
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.env/
+
+# Dependencias
+/.venv/
+/.env/
+/.python-version
+
+# Archivos generados por herramientas de construcción
+build/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+htmlcov/
+.coverage
+.tox/
+.nox/
+.hypothesis/
+.pytest_cache/
+.pytest_tmp/
+pytestdebug.log
+
+# Archivos de registro
+*.log
+logs/
+logging/
+
+# Carpeta de documentación
+docs/
+
+microsoftexcel/
+
+# Archivos de configuración local
+*.ini
+*.env
+*.env.*
+.env.bak/
+*.config
+
+# Otros archivos y directorios generados
+*.swp
+*.bak
+*~
+._*
+.project
+*.zip
+*.rar
+
+
+
